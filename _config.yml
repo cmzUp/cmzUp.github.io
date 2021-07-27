@@ -713,3 +713,5 @@ version: 5.1.1
 
 repository: cmzUp/blog.github.io
 Server address: http://127.0.0.1:4000
+
+theme: jekyll-theme-minimal
